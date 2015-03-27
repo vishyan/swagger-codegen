@@ -3,3 +3,4 @@ language: java
 script: mvn verify -Psamples
 jdk:
   - oraclejdk7
+podfile: samples/client/petstore/objc/Podfile
