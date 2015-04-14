@@ -22,7 +22,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.wordnik.swagger.codegen.SwaggerCodegen</mainClass>
+                            <mainClass>com.wordnik.swagger.codegen.Codegen</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
